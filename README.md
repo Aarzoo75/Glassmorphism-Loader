@@ -1,5 +1,14 @@
 # Glassmorphism-Loader
-Glassmorphism Loader Using HTML and CSS
+A stylish and modern loading animation inspired by the glassmorphism design trend.
 
-## Preview
-<img width="958" alt="Screenshot_20230108_195306" src="https://user-images.githubusercontent.com/59678435/211201477-09cf6a74-1fcb-43af-871a-85f2944c65cc.png">
+## Getting Started
+To use the Glassmorphism Loader in your project, simply include the CSS file in your HTML file:
+
+```HTML
+  <div class="loader">
+    <div style="--i: 1"></div>
+    <div style="--i: 2"></div>
+    <div style="--i: 3"></div>
+    <div style="--i: 4"></div>
+  </div>
+```
